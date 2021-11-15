@@ -3,3 +3,4 @@
 set -e
 
 bundle exec jekyll serve "$@"
+sx
